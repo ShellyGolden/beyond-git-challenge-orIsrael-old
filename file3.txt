@@ -3,6 +3,7 @@ mauris. Nam iaculis ac eros eget bibendum. Phasellus
 egestas fringilla libero sed viverra.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Proin hendrerit convallis nibh ac gravida. Integer
 placerat
 accumsan nibh, vitae bibendum urna ullamcorper in.
@@ -11,3 +12,13 @@ ADDED BY CONTRIBUTOR
 =======
 CHANGED BY MAINTAINER
 >>>>>>> 6082a9f (Updatting file3.txt)
+=======
+CHANGED BY MAINTAINER
+=======
+Proin hendrerit convallis nibh ac gravida. Integer
+placerat
+accumsan nibh, vitae bibendum urna ullamcorper in.
+
+ADDED BY CONTRIBUTOR
+>>>>>>> 893d941 (Edit file3.txt)
+>>>>>>> 53f5d4c (Edit file3.txt)
