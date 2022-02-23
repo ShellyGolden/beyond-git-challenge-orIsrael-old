@@ -5,10 +5,17 @@ pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 CHANGED BY CONTRIBUTOR
 =======
 CHANGED BY MAINTAINER
 >>>>>>> c6d7ff4 (Updatting file2.txt)
+=======
+CHANGED BY MAINTAINER
+=======
+CHANGED BY CONTRIBUTOR
+>>>>>>> 9bbd013 (Edit file2.txt)
+>>>>>>> 69a8bb2 (Edit file2.txt)
 
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
