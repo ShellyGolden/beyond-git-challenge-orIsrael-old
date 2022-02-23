@@ -4,7 +4,11 @@ Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
+<<<<<<< HEAD
 CHANGED BY CONTRIBUTOR
+=======
+CHANGED BY MAINTAINER
+>>>>>>> c6d7ff4 (Updatting file2.txt)
 
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
